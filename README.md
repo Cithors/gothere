@@ -1,4 +1,4 @@
-# GOTHERE : A useful script to know when you start to work
+# GOTHERE : A useful script to know when you started to work
 
 This script was made to help me know when I started to work since I shutdown my computer every time.
 
